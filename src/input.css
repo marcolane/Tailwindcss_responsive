@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.my-shadow-class{
+    text-shadow: 1px 1px #EEFF00, -1px -1px #EEFF00, 0 0 3px #EEFF00;
+}
+.shadow_can_do{
+    text-shadow: 1px 1px #EEFFFF, -1px -4px #EEFFF0, 0 0 6px #EEFFEE;
+}
+.shadow_price{
+    text-shadow: 1px 1px #C4DDF9, -1px -4px #C4DDE9, 0 0 6px #C4DD;
+}
+.shadow_sales{
+    text-shadow: 1px 1px #4e4e66, -1px -1px #565555, 0 0 3px #9d6666;
+}
